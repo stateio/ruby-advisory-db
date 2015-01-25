@@ -1,4 +1,4 @@
-# Warning!: This fork is used for testing [Gemcanary](https://www.gemcanary.com). 
+# Warning: This fork is used for testing [Gemcanary](https://www.gemcanary.com). 
 You probably don't want to be here!
 
 # Ruby Advisory Database
